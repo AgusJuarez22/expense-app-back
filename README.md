@@ -1,3 +1,3 @@
 # Expense APP API
-this is an API to keep trak of expenses. is mostly mi first expirience with spring so it needs improvements. 
-*THIS APP IS STILL IN DEVELOPMENT*
+This is an API to keep track of expenses. It is mostly my first experience with Spring, so it needs improvements.
+## *THIS APP IS STILL IN DEVELOPMENT*
